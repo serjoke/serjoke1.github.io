@@ -1,0 +1,118 @@
+@font-face{
+
+font-family: 'Font';
+
+src:url("18028.ttf");
+}
+
+
+body{
+    background-attachment:fixed;
+    background-image: url(%D0%B0%D0%BF%D1%80.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: "Font";
+    font-weight: 900;
+    font-size: 14px;
+    margin: 0px;
+    padding: 0px;
+    padding-top: 10%;
+padding-left: 25%;
+padding-right: 25%;
+        
+}
+
+
+
+
+
+
+
+.da{
+    background:rgba(200,200,200,.5);
+    margin: -10%;
+    padding: 10%;
+    padding-top: 15%;
+    box-shadow: 2px 2px 20px 20px rgba(200,200,200,.5);
+    height: 100vh;
+    
+    
+    
+    
+
+}
+
+input{
+    width: 100%;
+    font-size: 20px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    padding-left: 10px;
+    background-color: #fff;
+    font-family: "Font";
+    box-shadow: 1px 1px 30px 5px #7d7d7d;
+    color: #777777;
+    
+
+}
+
+#date{
+        height: 32px;
+
+}
+
+select{
+        width: 100%;
+    box-sizing:content-box;
+    font-size: 20px;
+    height: 32px;
+    border-radius: 5px;
+    border: none;
+    padding-left: 10px;
+    background-color: #fff;
+    font-family: "Font";
+    box-shadow: 1px 1px 30px 5px #7d7d7d;
+    color: #777777;
+    text-align: left;
+    
+}
+
+table{
+    width: 100%;
+    height: 50px;
+    text-align: left;
+    margin-bottom: 0%;
+   
+    
+    
+}
+.td{
+    width: 70%;
+}
+
+
+footer{
+    background-color: #1d1d1d;
+    height: 150px;    
+   width: 50%;
+
+    padding-left: inherit;
+padding-right: inherit;
+    margin-left: -25%;
+    
+    margin-top: 100px;
+    margin-bottom: 0px;
+    position: absolute;
+    color:aliceblue;
+    font-weight: 100;
+    
+}
+.bloc{
+    margin-top: 20px;
+}
+a{
+    color: darkorange;
+    text-decoration: none;
+}
